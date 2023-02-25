@@ -2,10 +2,10 @@
 
 A simple PHP JSON-RPC wrapper for Kryptokrona. No composer or external libraries required.
 
-Currently supported:
-Kryptokrona Daemon (kryptokronad)
-Kryptokrona Wallet API (wallet-api)
-Kryptokrona Service (kryptokrona-service)
+Currently supports:
+* Kryptokrona Daemon (kryptokronad)
+* Kryptokrona Wallet API (wallet-api)
+* Kryptokrona Service (kryptokrona-service)
 
 And also includes a KryptokronaHelper class to help with atomic unit conversion and such.
 
